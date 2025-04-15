@@ -3,15 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nixshadowheart&label=Profile%20views&color=0e75b6&style=flat" alt="nixshadowheart" /> </p>
 
-- 🔭 I’m currently working on [roadmap.sh projects](https://github.com/NixShadowheart/roadmap.sh)
+- 🔭 I’m currently working on: [roadmap.sh projects](https://github.com/NixShadowheart/roadmap.sh)
 
-- 🌱 I’m currently learning **HTML, CSS and JavaScript**
+- 🌱 I’m currently learning: **HTML, CSS and JavaScript**
 
-- 👯 I’m looking to collaborate on **Any Frontend project that will give me experience**
+- 👯 I’m looking to collaborate on: **Any Frontend project that will give me experience**
 
-- 📫 How to reach me **Discord: dandyssekk**
+- 📫 How to reach me: **Discord: dandyssekk**
 
-- ⚡ Fun fact **I moved to different country to leave my comfort zone**
+- ⚡ Fun fact: **I moved to different country to leave my comfort zone**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm NixShadowheart</h1>
-<h3 align="center">A passionate frontend developer from Czech Republic</h3>
+<h1 align="center">Hey, I'm Nix 👋</h1>
+<h3 align="center">A beginner frontend developer from Czech Republic</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nixshadowheart&label=Profile%20views&color=0e75b6&style=flat" alt="nixshadowheart" /> </p>
 
@@ -11,7 +11,7 @@
 
 - 📫 How to reach me: **Discord: dandyssekk**
 
-- ⚡ Fun fact: **I moved to different country to leave my comfort zone**
+- ⚡ Fun fact: **I moved to different country to leave my comfort zone behind**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
